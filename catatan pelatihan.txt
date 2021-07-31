@@ -1,0 +1,19 @@
+1. Create repository
+2. Buat nama reporistory
+3. Deskripsi
+4. public
+5. conteng gitignore dan readme
+
+create bracnh
+1. klik main
+2. buat nama
+3. create bracnh
+
+create new files
+-. klik add file
+-. buat nama
+-. isi
+-. judul
+-. deskripsi
+-. pilih commit directly
+-. klik commit new file
